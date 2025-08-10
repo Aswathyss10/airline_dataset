@@ -73,3 +73,14 @@ Insight: Shows how average ticket price changes depending on flight timings.
 Chart: Line plot
 
 Insight: Shows how ticket prices vary depending on how many days before departure tickets are purchased.
+
+ Key Insights
+Identify the most popular airlines and flight timings
+
+Understand price variations by airline, time of day, and booking period
+
+Compare ticket prices between economy and business classes
+
+Explore the relationship between stops and duration
+
+Analyze city-to-city flight distribution
